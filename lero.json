@@ -7,10 +7,9 @@
         {
           "name": "iOS - Fundamentos",
           "description": "",
-          "key-objectives": [
+          "keyObjectives": [
               "O iOS SDK (Software Development Kit) permite o desenvolvimento de aplicativos móveis no iOS. Desenvolvimento iOS não é apenas para programadores ou codificadores com anos de experiência, na verdade, os dados mostram que há um número significativo de criativos, estudantes, escritores que estão aprendendo Desenvolvimento iOS. O ambiente de desenvolvimento da Apple é um ecossistema em constante crescimento, com milhares de desenvolvedores em todo o mundo reunidos na conferência anual de desenvolvedores da Apple chamada WWDC."
           ],
-          "aditional-objectives": [],
           "contents": [
               {
                   "type": "ARTICLE",
@@ -89,10 +88,9 @@
         {
           "name": "Objective-C",
           "description": "",
-          "key-objectives": [
+          "keyObjectives": [
               "Objective-C foi por muito tempo a linguagem de programação utilizada para escrever software para OS X e iOS. É um superset da linguagem de programação C e provê recursos de orientação a objetos e tempo de execução dinâmicos. Objective-C herda a sintaxe, tipos primitivos e declarações de comandos de fluxo da linguagem C e adiciona sintaxe para definição de classes e métodos. Ela também adiciona suporte a nível de linguagem para gerenciamento de gráficos de objetos e objetos literais enquanto fornece tipagem e vinculo dinâmicos, adiando muitas responsabilidades até o momento da execução."
           ],
-          "aditional-objectives": [],
           "contents": [
               {
                   "type": "SITE",
@@ -204,10 +202,9 @@
         {
           "name": "Swift",
           "description": "",
-          "key-objectives": [
+          "keyObjectives": [
               "Swift é uma nova linguagem de progamação para desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS. Apesar disso, muitas partes da linguagem Swift serão familiares quando consideradas experiências anteriores de desenvolvimento em C e Objective-C. Swift provê suas próprias versões de todos os tipos fundamentais de C e Objective-C, incluindo Int para inteiros, Double e Float para valores de ponto flutuante, Bool para valores boleanos e String para dados textuais. Swift também provê versões poderosas dos três principais tipos de coleções, Array, Set e Dictionary"
           ],
-          "aditional-objectives": [],
           "contents": [
               {
                   "type": "YOUTUBE",
@@ -411,10 +408,9 @@
         {
             "name": "Cocoa Touch",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Cocoa Touch é o ambiente de desenvolvimento de aplicativos para criação de softwares que rodam no iOS para iPhone e iPod Touch, iPadOS para iPad, watchOS para Apple Watch e tvOS para a Apple TV de quarta geração, da Apple Inc. O Cocoa Touch fornece uma camada de abstração do iOS, o sistema operacional para iPhone, iPod Touch e iPad. Ele é baseado no conjunto de ferramentas da API Cocoa do macOS e, como ela, é escrito principalmente na linguagem Objective-C. O Cocoa Touch permite o uso de hardware e recursos que não são encontrados nos computadores macOS e, portanto, são exclusivos da gama de dispositivos iOS. Assim como a Cocoa, o Cocoa Touch segue uma arquitetura de software Model-View-Controller (MVC). O Cocoa Touch contém um conjunto diferente de elementos de controle gráfico do Cocoa. As ferramentas para o desenvolvimento de aplicativos baseados no Cocoa Touch estão incluídas no SDK do iOS."
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "SITE",
@@ -516,10 +512,9 @@
         {
             "name": "Foundation",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Core Foundation (também chamado de CF) é uma interface de programação de aplicativo (API) C escrita pela Apple para seus sistemas operacionais e é uma mistura de rotinas de baixo nível e funções de wrapper. A maioria das rotinas do Core Foundation segue uma certa convenção de nomenclatura que lida com objetos opacos, por exemplo, CFDictionaryRef para funções cujos nomes começam com CFDictionary, e esses objetos geralmente são contados por referência (manualmente) por meio de CFRetain e CFRelease. Internamente, o Core Foundation forma a base dos tipos na biblioteca padrão Objective-C e na Carbon API"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "ARTICLE",
@@ -596,10 +591,9 @@
         {
             "name": "Layout",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Quando criamos uma aplicação, precisamos pensar muito em como o seu layout será desenvolvido. No mundo do desenvolvimento iOS, falando especificamente sobre o UIKit, que é um framework criado pela Apple que permite a construção de aplicações iOS, temos três diferentes modos de construir interfaces: Storyboard, XIB ou View Code."
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "YOUTUBE",
@@ -698,10 +692,9 @@
         {
           "name": "Recursos Nativos",
           "description": "",
-          "key-objectives": [
+          "keyObjectives": [
               "Recursos Nativos"
           ],
-          "aditional-objectives": [],
           "contents": [
             {
                 "type": "SITE",
@@ -733,10 +726,9 @@
         {
             "name": "Design Patterns",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Design Patterns"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "SITE",
@@ -788,10 +780,9 @@
         {
             "name": "Version Control System",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Version Control System"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "SITE",
@@ -813,10 +804,9 @@
         {
             "name": "Gerenciadores de dependencias",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Gerenciador de dependencias"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "SITE",
@@ -855,10 +845,9 @@
         {
             "name": "Networking",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Networking"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "ARTICLE",
@@ -890,10 +879,9 @@
         {
             "name": "Animações",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Animações"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "ARTICLE",
@@ -915,10 +903,9 @@
         {
             "name": "Gerenciamento de memória",
             "description": "",
-            "key-objectives": [
+            "keyObjectives": [
                 "Gerenciamento de memória"
             ],
-            "aditional-objectives": [],
             "contents": [
                 {
                     "type": "SITE",
@@ -990,10 +977,9 @@
           {
               "name": "Multithreading e concorrência",
               "description": "",
-              "key-objectives": [
+              "keyObjectives": [
                   "Multithreading e concorrência"
               ],
-              "aditional-objectives": [],
               "contents": [
                 {
                     "type": "SITE",
@@ -1055,10 +1041,9 @@
           {
               "name": "Debugging",
               "description": "",
-              "key-objectives": [
+              "keyObjectives": [
                   "Debugging"
               ],
-              "aditional-objectives": [],
               "contents": [
                 {
                     "type": "SITE",
@@ -1070,10 +1055,9 @@
           {
               "name": "Testes Unitários",
               "description": "",
-              "key-objectives": [
+              "keyObjectives": [
                   "Testes Unitários"
               ],
-              "aditional-objectives": [],
               "contents": [
                 {
                     "type": "SITE",
@@ -1135,10 +1119,9 @@
           {
               "name": "Segurança",
               "description": "",
-              "key-objectives": [
+              "keyObjectives": [
                   "Segurança"
               ],
-              "aditional-objectives": [],
               "contents": [
                 {
                     "type": "ARTICLE",
@@ -1165,10 +1148,9 @@
           {
               "name": "Acessibilidade",
               "description": "",
-              "key-objectives": [
+              "keyObjectives": [
                   "Acessibilidade"
               ],
-              "aditional-objectives": [],
               "contents": [
                 {
                     "type": "ARTICLE",
